@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Canfes**
 
-- 🌱 I’m currently learning **Java Development, React Native & Data Science**
+- 🌱 I’m currently learning **Java Development, React JS & Data Science**
 
 - 💬 Ask me about **Flutter**
 
